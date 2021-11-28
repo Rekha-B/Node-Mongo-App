@@ -1,7 +1,7 @@
 require("dotenv").config();
-const app = require('./app');
+const app = require("./app");
 const mongoose = require("./Libs/mongoose");
-const logger = require('./Libs/logger');
+const logger = require("./Libs/logger");
 
 const { port,
     mongoose: { url, options }} = require("./Config");

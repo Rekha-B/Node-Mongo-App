@@ -1,5 +1,5 @@
-const mongoose = require('mongoose');
-const logger = require('./logger');
+const mongoose = require("mongoose");
+const logger = require("./logger");
 
 /**
  * Create MongoDB Connection

@@ -28,6 +28,13 @@
   "homepage": "https://github.com/Rekha-B/Node-Mongo-App#readme",
   "devDependencies": {
     "eslint": "^8.3.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jest": "^25.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.27.1",
+    "eslint-plugin-security": "^1.4.0",
     "nodemon": "^2.0.15",
     "prettier": "^2.5.0"
   },
